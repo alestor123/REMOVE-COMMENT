@@ -1,0 +1,68 @@
+{
+  "name": "remove-comment",
+  "version": "1.0.0",
+  "description": "This is a simple code for removing all comments",
+  "main": "App.js",
+  "funding": "https://alestor123.is-a.dev/donate",
+  "bin": "cli.js",
+  "scripts": {
+    "test": "standard && node test.js | tap-spec",
+    "example": "node run.js",
+    "lint": "standard . --fix"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "App.js",
+    "cli.js",
+    "opt.js",
+    "assets/man/help.man"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/REMOVE-COMMENT.git"
+  },
+  "keywords": [
+    "cli-app",
+    "cli",
+    "node",
+    "nodejs",
+    "terminal",
+    "term",
+    "tool",
+    "documentation",
+    "docs",
+    "javascript",
+    "awesome",
+    "log",
+    "logging",
+    "shell",
+    "/*",
+    "*/",
+    "//",
+    "github",
+    "commenting",
+    "comment",
+    "commenting",
+    "comments",
+    "reading",
+    "remove",
+    "string"
+  ],
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/REMOVE-COMMENT/issues"
+  },
+  "devDependencies": {
+    "standard": "^16.0.3",
+    "tap": "^15.0.9",
+    "tap-spec": "^5.0.0"
+  },
+  "homepage": "https://github.com/alestor123/REMOVE-COMMENT#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
