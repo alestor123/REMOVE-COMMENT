@@ -1,5 +1,5 @@
 
-        Usage: ascii-header <output file paths>
+        Usage: remove-comment <output file paths>
   
 
 Arguments : 
